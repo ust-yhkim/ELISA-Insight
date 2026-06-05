@@ -1,0 +1,6 @@
+{
+  "name": "ELISA Insight",
+  "description": "A comprehensive ELISA analysis tool for standard curve generation, sample input, and concentration calculation with visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
